@@ -9,5 +9,6 @@ point_identifier_from point_identifier_to
 
 Set the input files in the controls inside GeoPAN_formatter.py. Also set the precision of the measurements, the number of measurement set. The output file name is determined from Project_name. 
 
-#To Run:
+# To Run
+
 $ python3 GeoPAN_formatter.py
